@@ -1,0 +1,29 @@
+{
+  "name": "burgerapi",
+  "version": "1.0.0",
+  "description": "Sample burger api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruwanthalk/BurgerAPI.git"
+  },
+  "keywords": [
+    "Burger",
+    "API",
+    "Sample",
+    "Rest",
+    "Service"
+  ],
+  "author": "Ruwantha Lankathilaka",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/ruwanthalk/BurgerAPI/issues"
+  },
+  "homepage": "https://github.com/ruwanthalk/BurgerAPI#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
