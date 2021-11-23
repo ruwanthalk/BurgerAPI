@@ -1,0 +1,15 @@
+npm install -g json-server
+npx json-server --watch -p 3333 db.json
+
+npm init
+npm i 
+npm i json_server
+npm install -g json-server // after initialization installing json_server will add the dependency for the package.xml
+
+git add .
+git commit -m ""
+
+install Heroku 
+heroku login
+heroku create my-burger-api-project
+git push heroku main
